@@ -53,7 +53,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=best-shuke&color=58A6FF&style=flat-square" alt="Profile views"/>
 
 
