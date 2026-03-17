@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ 关于我
 
-- 🔭 目前正在从事全栈开发工作
+- 🔭 目前正在量化研究工作
 - 🌱 持续学习新技术，拥抱开源
 - 👯 期待与志同道合的开发者合作交流
 - 💬 欢迎和我聊聊编程、技术和生活
@@ -19,10 +19,7 @@
 ## 🛠️ 技术栈
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -63,4 +60,3 @@
 
 [![best-shuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=best-shuke)](https://github.com/anuraghazra/github-readme-stats)
 
-I am Jason Ji
