@@ -55,8 +55,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=best-shuke&color=58A6FF&style=flat-square" alt="Profile views"/>
-</p>
-## Hi there 👋
 
-[![best-shuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=best-shuke)](https://github.com/anuraghazra/github-readme-stats)
 
