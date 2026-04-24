@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Quant+Research+%C3%97+Engineering;Building+data-driven+systems+with+Python+and+React;Turning+ideas+into+reproducible+tools;Keep+learning.+Keep+building.+Keep+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Quant+Research+%C3%97+Engineering;Building+data-driven+systems+with+Python+and+Rust;Turning+ideas+into+reproducible+tools;Keep+learning.+Keep+building.+Keep+shipping." alt="Typing SVG" />
 </p>
 
 <p align="center">
