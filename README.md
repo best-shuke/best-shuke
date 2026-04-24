@@ -234,18 +234,6 @@ I care about building systems that are not only usable, but also **measurable, r
 
 ---
 
-## 🧠 Developer Profile
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=best-shuke&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</p>
-
-<!--
-上面的 WakaTime 卡片需要你有 WakaTime 账号并配置 username。
-如果没有配置，可以删除这一段。
--->
-
----
 
 ## 📌 Repository Style
 
