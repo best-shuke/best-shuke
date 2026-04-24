@@ -31,7 +31,7 @@ I care about building systems that are not only usable, but also **measurable, r
 
 - 🧠 Currently working on **quant research and systematic trading infrastructure**
 - 🔬 Interested in **factor research, signal validation, backtesting, and risk analytics**
-- 🏗️ Building tools with **Python, React, Node.js, Docker, Linux**
+- 🏗️ Building tools with **Python, Rust, React, Node.js, Docker, Linux**
 - 📊 Enjoy working with **data pipelines, research workflows, and visualization systems**
 - 🌱 Continuously learning, shipping, and improving engineering discipline
 - 🤝 Open to collaboration on **open-source tools, research infrastructure, and developer productivity**
